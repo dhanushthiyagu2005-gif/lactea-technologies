@@ -34,12 +34,10 @@ export default function Navbar() {
           LACTEA
         </span>
         <span
-          className={`text-[10px] font-semibold uppercase tracking-[0.2em] transition-colors ${
-            scrolled ? 'text-brand-600' : 'text-brand-200'
-          }`}
-        >
-          Technologies
-        </span>
+  className="text-[10px] font-semibold uppercase tracking-[0.2em] text-[#6FCF97]"
+>
+  Technologies IT Solutions
+</span>
       </span>
     </a>
   );

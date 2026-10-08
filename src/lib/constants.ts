@@ -11,8 +11,7 @@ export const COMPANY = {
     line2: 'Hongandra, Bengaluru - 560 068',
     full: '1st Floor, 3/20, Bhagat Singh Street, Hongandra, Bengaluru - 560 068',
   },
-  mapsQuery:
-    'https://www.google.com/maps/search/?api=1&query=' +
+  mapsQuery: "https://www.google.com/maps?q=No.03%2C%20Sri%20Maruti%20Electricals%20%26%20Hardware%2C%2023rd%20Main%20Rd%2C%20opposite%20Kadala%20Swada%2C%20R.K.%20Colony%2C%20Marenahalli%2C%202nd%20Phase%2C%20J.P.%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560041&output=embed" +
     encodeURIComponent('Lactea Technologies, 1st Floor, 3/20, Bhagat Singh Street, Hongandra, Bengaluru - 560 068'),
 };
 

@@ -55,8 +55,8 @@ export default function Footer() {
               </span>
               <div className="leading-none">
                 <p className="font-display text-lg font-extrabold tracking-tight text-white">LACTEA</p>
-                <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-brand-300">
-                  Technologies
+                <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-[#6FCF97]">
+                  Technologies IT Solutions
                 </p>
               </div>
             </div>

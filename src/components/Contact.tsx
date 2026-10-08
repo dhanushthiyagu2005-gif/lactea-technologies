@@ -238,7 +238,7 @@ export default function Contact() {
             <div className="overflow-hidden rounded-3xl border border-navy-100 shadow-card">
               <iframe
                 title="Lactea Technologies location map"
-                src={`https://www.google.com/maps?q=${encodeURIComponent(COMPANY.address.full)}&output=embed`}
+                src="https://www.google.com/maps?q=No.03%2C%20Sri%20Maruti%20Electricals%20%26%20Hardware%2C%2023rd%20Main%20Rd%2C%20opposite%20Kadala%20Swada%2C%20R.K.%20Colony%2C%20Marenahalli%2C%202nd%20Phase%2C%20J.P.%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560041&output=embed"
                 width="100%"
                 height="260"
                 loading="lazy"
